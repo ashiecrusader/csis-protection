@@ -31,4 +31,4 @@ If it's above or equal to the minimum value,  it checks if that user doesn't alr
 The second form works on basically the same prinicple, except it verifies that the key the user has entered is actuallya valid key, if it isn't, it doesn't execute any more code. If it's however a valid key, but not theirs, it removes their key and the key of the person that the entered key belongs to. This is done because sharing keys/using keys assigned to other people is against our "protection agreements".
 
 
-**A little addition is an app script that I wrote for both forms, it checks the availability of the application running on the pi by using the ``get`` method on ``URL/status`. If it gets a ``200 OK`` response, it keeps the form open, if it doesn't, it closes the form.**
+**A little addition is an app script that I wrote for both forms, it checks the availability of the application running on the pi by using the ``get`` method on ``URL/status``. If it gets a ``200 OK`` response, it keeps the form open, if it doesn't, it closes the form.**
