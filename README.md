@@ -17,7 +17,7 @@ The first one is used for requesting a special key, which is later needed for th
 - roblox username;
 - department they qualify in* (single choice question).
 
-* - a user is expected to be above a rank that's specified for every department.
+* a user is expected to be above a rank that's specified for every department.
 
 The e-mail addresses provided are not stored anywhere, they're only requested for the purpose of sending an e-mail containing the key.
 
