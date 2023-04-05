@@ -16,10 +16,10 @@ The first one is used for requesting a special key, which is later needed for th
 - e-mail address;
 - roblox username;
 - department they qualify in* (single choice question).
-*  user is expected to be above a rank that's specified for every department.
 
 The e-mail addresses provided are not stored anywhere, they're only requested for the purpose of sending an e-mail containing the key.
 
+* user is expected to be above a rank that's specified for every department.
 ### How it works
 
 When a user answers all 3 questions and sends the form, the process beings.
